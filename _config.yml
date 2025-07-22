@@ -16,8 +16,8 @@ show_siblings: false            # show prev/next links
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {title: "Home", file: "archive.html", sidebaricon: home}
+  - {title: "About Me", file: "README.md", sidebaricon: address-card}
   - {title: "Writing", file: "writing.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
