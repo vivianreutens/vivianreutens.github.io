@@ -18,7 +18,7 @@ show_siblings: false            # show prev/next links
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "archive.html", sidebaricon: home}
   - {title: "About Me", file: "aboutme.md", sidebaricon: address-card}
-  - {title: "Writing", file: "writing.md"}
+  - {title: "Writing", file: "writing.md", sidebaricon: pencil}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto: vreutens@gmail.com"}
