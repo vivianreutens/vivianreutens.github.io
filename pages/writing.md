@@ -1,5 +1,6 @@
 ---
 title:  "Writing"
+permalink: "/writing/"
 mathjax: true
 layout: post
 ---
