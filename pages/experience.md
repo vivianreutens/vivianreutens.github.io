@@ -34,8 +34,16 @@ Supported **Thrive by Design** in collecting data on Black women's mental and ph
 **Examples:**
 
 <div class="image-grid">
-    <img src="../stuff%20included/images/Helpfulness%20by%20Professional%20Seen.png" alt="Helpfulness by Mental Health Professional Seen" title="Helpfulness by Professional Seen">
-    <img src="../stuff%20included/images/racesexdaysworkmentalhealth.png" alt="Days Unable to Work by Race-Sex" title="Days Unable to Work by Race-Sex">
-    <img src="../stuff%20included/images/consumerwishesblackwomen.png" alt="Consumer Wishes for the Health/Wellness Industry" title="Consumer Preferences for HWI">
-    <img src="../stuff%20included/images/wnaraceci.png" alt="Worry, Nervousness, or Anxiety (by age)" title="Mental Health Symptoms by Age and Race">
+    <a href = "../stuff%20included/images/Helpfulness%20by%20Professional%20Seen.png" target = "_blank">
+      <img src="../stuff%20included/images/Helpfulness%20by%20Professional%20Seen.png" alt="Helpfulness by Mental Health Professional Seen" title="Helpfulness by Professional Seen">
+    </a>
+    <a href = "../stuff%20included/images/racesexdaysworkmentalhealth.png" alt="Helpfulness by Mental Health Professional Seen" target = "_blank">
+      <img src="../stuff%20included/images/racesexdaysworkmentalhealth.png" alt="Days Unable to Work by Race-Sex" title="Days Unable to Work by Race-Sex">
+    </a>
+    <a href = "../stuff%20included/images/consumerwishesblackwomen.png" alt="Consumer Wishes for the Health/Wellness Industry" target = "_blank">
+      <img src="../stuff%20included/images/consumerwishesblackwomen.png" alt="Consumer Wishes for the Health/Wellness Industry" title="Consumer Preferences for HWI">
+    </a>
+    <a href = "../stuff%20included/images/wnaraceci.png" target = "_blank">
+      <img src = "../stuff%20included/images/wnaraceci.png" alt="Worry, Nervousness, or Anxiety (by age)" title="Mental Health Symptoms by Age and Race">
+    </a>
 </div>
