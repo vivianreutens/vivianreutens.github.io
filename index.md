@@ -3,5 +3,5 @@
 <p><b>Currently reading (July 2025):</b> <i>The Model Thinker: What You Need to Know to Make Data Work for You</i>  <br>
 <b>Interests:</b> Industrial Organization, Antitrust, Technology Policy, Labor Economics</p>
 <br>
-<img src = slopefieldnobg.png>
+<img src = "slopefieldnobg.png">
 Inspired by <a href = "https://www.kqed.org/news/11987286/ever-seen-a-koi-fish-on-the-sidewalk-artist-explains-hidden-meaning">Jeremy Novy</a>. Koi designed by  <a href="http://www.freepik.com">Freepik</a>. Slope field generated with <a href = "https://www.desmos.com/calculator/eofv8lpzd8"> Desmos </a>. 
