@@ -14,7 +14,6 @@ layout: page
 }
 
 .image-grid img {
-  width: 100%;
   max-width: 300px;
   height: auto;
   border-radius: 8px;
