@@ -23,7 +23,8 @@
   <a href="{{ "/" | relative_url }}" class="title{% if site.navigation and site.external %}{% unless site.footer %} full {% endunless %}{% endif %}">{{ site.title | escape }}</a>
   {% include menu.html menu=site.navigation %}
   {% unless site.footer %}{% include menu.html menu=site.external %}{% endunless %}
-  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
+  <link rel="icon" href="../lightmodefavicon/favicon.ico" type="image/x-icon" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="../darkmodefavicon/favicon.ico" type="image/x-icon" media="(prefers-color-scheme: dark)">
 </header>
 
 {{ content }}
