@@ -40,9 +40,9 @@ Supported **Thrive by Design** in collecting data on Black women's mental and ph
       <img src="../stuff%20included/images/racesexdaysworkmentalhealth.png" alt="Days Unable to Work by Race-Sex" title="Days Unable to Work by Race-Sex">
     </a>
     <a href = "../stuff%20included/images/consumerwishesblackwomen.png"  target = "_blank">
-      <img src="../stuff%20included/images/consumerwishesblackwomen.png" alt="Consumer Wishes for the Health/Wellness Industry" title="Consumer Preferences for HWI">
+      <img src="../stuff%20included/images/consumerwishesblackwomen.png" alt="Consumer Wishes for the Health/Wellness Industry" title="Consumer Wishes for the Health/Wellness Industry">
     </a>
     <a href = "../stuff%20included/images/wnaraceci.png" target = "_blank">
-      <img src = "../stuff%20included/images/wnaraceci.png" alt="Worry, Nervousness, or Anxiety (by age)" title="Mental Health Symptoms by Age and Race">
+      <img src = "../stuff%20included/images/wnaraceci.png" alt="Worry, Nervousness, or Anxiety (by age)" title="Worry, Nervousness, or Anxiety (by age)">
     </a>
 </div>
