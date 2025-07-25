@@ -7,21 +7,25 @@ layout: page
   action="https://formspree.io/f/xqalqdpa"
   method="POST"
 >
-
+<br>
   <label>
     Name:
     <input type ="name">
   </label>
 
+  <br>
+
   <label>
-    Your email:
+    Email:
     <input type="email" name="email">
   </label>
 
+  <br>
+
   <label>
-    Your message:
+    Message:
     <textarea name="message"></textarea>
   </label>
-
+<br>
   <button type="submit">Send</button>
 </form>
