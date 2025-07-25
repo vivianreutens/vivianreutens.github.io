@@ -1,21 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
 
 /** Variables **/
 
 :root {
-  --color-background: #cbd5e1;
-  --color-background-alt: #64748b;
   --color-border-active: #64748b;
   --color-border-default: #94a3b8;
   --color-highlight: #cbd5e1;
   --color-primary: #1e293b;
   --color-primary-active: #090f1d;
-  --color-text-default: #ffffff;
+  --color-text-default: #090f1d;
   --color-text-muted: #475569;
-
-  --font-family-body: "Inter", sans-serif;
 }
 
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text-default: #ffffff; /* White text */
+    --color-text-muted: #cbd5e1;  /* Muted light text */
+  }
+}
 /** Base **/
 
 *,
