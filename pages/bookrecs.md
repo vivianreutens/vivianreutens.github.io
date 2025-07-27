@@ -1,6 +1,6 @@
 ---
-title: "Book Recs"
-permalink: "/bookrecs/"
+title: "Recs"
+permalink: "/recs/"
 layout: page
 ---
 
@@ -15,3 +15,6 @@ layout: page
 
 # Cookbooks
 - [*The Perfect Loaf*](https://www.theperfectloaf.com/cookbooks/) by Maurizio Leo
+
+# Papers
+- PJ Lamberson and Scott E. Page, “Tipping Points,” *Quarterly Journal of Political Science*, 2012, 7:175—208.
