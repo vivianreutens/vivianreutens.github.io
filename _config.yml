@@ -18,7 +18,7 @@ show_siblings: false            # show prev/next links
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Writing", file: "writing.md", sidebaricon: pencil}
   - {title: "Experience", file: "experience.md", sidebaricon: briefcase}
-  - {title: "Book Recs", file: "bookrecs.md", sidebaricon: books}
+  - {title: "Recs", file: "bookrecs.md", sidebaricon: books}
   - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
 footer: ""
