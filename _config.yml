@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
 footer:
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/vivian-reutens/"}
+  - {title: "LinkedIn", icon: linkedin, url: "https://www.linkedin.com/in/vivian-reutens/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
