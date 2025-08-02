@@ -18,10 +18,12 @@ show_siblings: false            # show prev/next links
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Writing", file: "writing.md", sidebaricon: pencil}
   - {title: "Experience", file: "experience.md", sidebaricon: briefcase}
-  - {title: "Book Recs", file: "bookrecs.md", sidebaricon: books}
+  - {title: "Recs", file: "bookrecs.md", sidebaricon: books}
   - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
-footer: ""
+footer:
+  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/vivian-reutens/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
