@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Recs", file: "bookrecs.md", sidebaricon: books}
   - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
-footer:
+external:
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/vivian-reutens/"}
 
