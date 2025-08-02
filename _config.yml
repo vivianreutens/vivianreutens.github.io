@@ -21,7 +21,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Recs", file: "bookrecs.md", sidebaricon: books}
   - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
-footer: ""
+footer:
+  - {url: "https://www.linkedin.com/in/vivian-reutens/", icon: linkedin}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
