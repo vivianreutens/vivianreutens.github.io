@@ -22,7 +22,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
 external:
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/vivian-reutens/"}
 
 comments:
