@@ -37,16 +37,32 @@ Do countries using FPTP have a smaller number of effective parties than those th
 r = 1 - \sum_{i=1}^{m} v_i^2
 $$
 
-where \(v_i\) is the share of votes for each party \(i\) and \(m\) is the number of parties. Subtracting the sum of squared shares from 1 gives us a measure of fractionalization.</li>
-
-    <li> Calculating $$ ENP = \frac{1}{1-r}$$ </li>
+where $v_i$ is the share of votes for each party $i$ and $m$ is the number of parties. Subtracting the sum of squared shares from 1 gives us a measure of fractionalization.</li>
+    <li>Calculating $$ ENP = \frac{1}{1-r}$$ </li>
 </ol>
 
 
- <iframe src="/stuff%20included/html/effpar_elemap.html" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="/stuff%20included/html/effpar_elemap.html" width="100%" height="500px" frameborder="0" style="border:1" allowfullscreen></iframe>
 
-One finds that European countries tend to have higher ENP measures, and that more European countries use proportional representation voting systems. The U.S., U.K., and Canada are the only countries classified as using FPTP systems, and have the lowest ENP measures. Countries noted to use "modified PR" systems (e.g. Australia,  France, Japan) have ENP measures between that of the PR-system countries and that of the FPTP-system countries. Overall, Duverger's Law holds.
+One finds that European countries tend to have higher ENP measures, and that more European countries use proportional representation voting systems. The U.S., U.K., and Canada are the only countries classified as using FPTP systems, and have the lowest ENP measures. Countries noted to use "modified PR" systems (e.g. Australia, France, Japan) have ENP measures between that of the PR-system countries and that of the FPTP-system countries. Overall, Duverger's Law holds.
 
-## Duverger's Hypothesis
+
+The CPDS also gives us data for the effective number of parties in the legislature. It's calculated in the same way as Electoral ENP, but it swaps $v_i$, a party's vote share in the election, for $s_i$, a party's share of votes in the legislature.
+
+
+ <iframe src="/stuff%20included/html/effpar_legmap.html" width="100%" height="500px" frameborder="0" style="border:1" allowfullscreen></iframe>
+
+Every country has a lower Electoral ENP than Legislative ENP. How strange! 
+
+# Case Studies
+
+Let's zoom in on three countries with different systems:
+<ol>
+    <li> FPTP: Canada </li>
+    <li> Modified PR: Japan </li>
+    <li> PR: Belgium </li>
+</ol>
+
+## FPTP: Canada
 
 [^1]:Armingeon, Klaus, Sarah Engler, Lucas Leemann and David Weisstanner. 2025. <i>Comparative Political Data Set 1960-2023.</i> Zurich/Lueneburg/Lucerne: University of Zurich, Leuphana University Lueneburg, and University of Lucerne.

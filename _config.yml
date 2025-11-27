@@ -30,3 +30,12 @@ comments:
 
 plugins:
  - jekyll-feed
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  parse_block_html: true
+  parse_span_html: true
+  math_engine_opts:
+    preview: false
+
