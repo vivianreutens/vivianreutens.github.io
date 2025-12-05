@@ -19,7 +19,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Writing", file: "writing.md", sidebaricon: pencil}
   - {title: "Projects", file: "projects.md", sidebaricon: briefcase}
   - {title: "Recs", file: "bookrecs.md", sidebaricon: books}
-  - {title: "Contact", file: "contact.md", sidebaricon: envelope}
 
 external:
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/vivian-reutens/"}

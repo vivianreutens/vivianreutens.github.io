@@ -11,20 +11,16 @@ For this project, I looked only at data collected in 2023. The countries covered
 
 <img src = '/stuff%20included/images/cp.repregions.png' alt = 'Global map depicting countries in Northern, Western, Southern, and Eastern Europe; Eastern and Western Asia; Northern America; and Australia and New Zealand.'>
 
-<div id="contentBox" style="margin:3px auto; width:100%">
-    <div id="column1" style="float:left; margin:0px; width:50%;">
-     <b>Australia and New Zealand</b>: Australia, New Zealand <br><br>
+
+<b>Australia and New Zealand</b>: Australia, New Zealand <br><br>
      <b> Northern America</b>: Canada, USA <br><br>
      <b>Western Asia</b>: Cyprus <br><br>
      <b>Eastern Asia</b>: Japan <br><br>
-    </div>
-    <div id="column2" style="float:left; margin:0px;width:50%;">
-     <b>Western Europe</b>: Austria, Belgium, France, Germany, Luxembourg, Netherlands, Switzerland<br><br>
+   
+ <b>Western Europe</b>: Austria, Belgium, France, Germany, Luxembourg, Netherlands, Switzerland<br><br>
      <b>Eastern Europe</b>: Bulgaria, Czech Republic, Hungary, Poland, Romania, Slovakia<br><br>
      <b>Northern Europe</b>: Denmark, Estonia, Finland, Ireland, Iceland, Latvia, Lithuania, Norway, Sweden, UK<br><br>
      <b>Southern Europe</b>: Croatia, Greece, Italy, Malta, Portugal, Slovenia, Spain<br><br>
-    </div>
-</div>
 
 Countries were grouped into "subregions" by coders at <a href = 'https://www.naturalearthdata.com/'>Natural Earth</a>. 
 
@@ -58,11 +54,13 @@ Every country has a lower Electoral ENP than Legislative ENP. How strange!
 
 Let's zoom in on three countries with different systems:
 <ol>
-    <li> FPTP: Canada </li>
+    <li> FPTP: United Kingdom </li>
     <li> Modified PR: Japan </li>
     <li> PR: Belgium </li>
 </ol>
 
-## FPTP: Canada
+## FPTP: United Kingdom
+
+The United States and Canada base their election systems off of the UK's. The UK has 650 different constituencies which each use FPTP to elect a single MP to the House of Commons. FPTP is also used for local elections (councillors, parish and town council elections, police and crime commissioner elections...)
 
 [^1]:Armingeon, Klaus, Sarah Engler, Lucas Leemann and David Weisstanner. 2025. <i>Comparative Political Data Set 1960-2023.</i> Zurich/Lueneburg/Lucerne: University of Zurich, Leuphana University Lueneburg, and University of Lucerne.
