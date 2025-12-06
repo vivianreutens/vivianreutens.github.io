@@ -93,6 +93,15 @@ Belgium was the first country in the world to adopt a PR system for national par
 
 Belgium is split into four "linguistic regions" per its Constitution: the Dutch-speaking region in the north (Flanders), the French-speaking region in the south (Wallonia), the bilingual area of Brussels-Capital, and the German-speaking region in the east.[^6] Each language region has their own set of parties which speak that language: as a result, there's no national "Green" party, for example, but there's a Dutch-speaking Green party and a French-speaking Green party. As a result of both the language divide and the PR electoral system, parties abound.
 
+| Political Ideology | Dutch-Speaking | Francophone |
+|:--|:--| :--|
+|Center-Left | Socialist Party Different (sp.a) | Socialist Party (PS)|
+|Liberal| Open Flemish Liberals and Democrats | Mouvement Réformateur|
+|Green| |Groen | Écolo|
+|Christian Democratic | Christian Democratic and Flemish | Humanist Democratic Center|
+| | New Flemish Alliance | Democratic Federalist Independent | 
+|| Flemish Interest | Workers' Party
+
 Belgium has an ENP of 10.97. Sixteen parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 24 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs).The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^7]
 
 ---
