@@ -3,6 +3,13 @@ layout: post
 title: Comparative Politics - Duverger's Law
 permalink: /comparativepolitics/
 ---
+
+- [Case Studies](#case-studies)
+  - [FPTP: United Kingdom](#fptp-united-kingdom)
+  - [Modified PR: Japan](#modified-pr-japan)
+  - [PR: Belgium](#pr-belgium)
+
+
 <strong>Duverger's Law</strong> holds that the simple-majority single ballot system (FPTP) favors the two party system. When voters go to the polls and vote strategically, a FPTP system incentivizes them not to select minority parties which will never be able to reach a plurality. This project seeks to check if Duverger's Law holds up when applied to empirical data.
 
 I am using the <strong>Comparative Political Data Set (CPDS)</strong>,[^1] which contains annual data for thirty-six democratic countries. The dataset covers the range 1960-2023 (or, if the country transitioned to democracy after 1960, starts in the transition year). 
@@ -64,7 +71,12 @@ Let's zoom in on three countries with different systems:
 
 The United States and Canada based their election systems off of the UK's. The UK has 650 different constituencies which each use FPTP to elect a single MP to the House of Commons. FPTP is also used for local elections (councillors, parish and town council elections, police and crime commissioner elections...).
 
-Below is a slideshow[^2] displaying the share of seats in Parliament in different years. Click the upper two arrows to freely toggle back and forth; click the middle button to have it play for you.
+There are <a href = 'https://www.britannica.com/question/How-many-political-parties-are-there-in-the-U-K'> thirteen </a> parties represented in Parliament as of 2025. However, the UK has an ENP of 3.24. The main parties represented in Parliament are the Labour Party (center-left, 404 MPs), The Conservative "Tory" Party (center-right, 119 MPs), and the Liberal Democrats (center-left, 72 MPs). 
+
+The structure of FPTP favors parties with strong geographical support, as parties need a majority in each local constituency to get MPs. As a result, we see two major parties UK-wide and quite a few local/nationalist parties that have geographical strongholds. Examples of the latter include Sinn Féin (Irish republican and democratic socialist), Plaid Cymru (Welsh nationalist), and the Scottish National Party (Socttish nationalist).[^2] 
+
+Below is a slideshow[^3] displaying the share of seats in Parliament in different years. Click the upper two arrows to freely toggle back and forth; click the middle button to have it play for you.
+
 <iframe scrolling = 'no' sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" src = 'https://flo.uri.sh/story/163875/embed?auto=1' width="100%" height="668px" frameborder="0" style="border:1" allowfullscreen></iframe>
 
 ## Modified PR: Japan
@@ -80,6 +92,15 @@ Japan has an ENP of 3.72. Eleven parties are represented in the House of Represe
 Belgium was the first country in the world to adopt a PR system for national parliamentary elections in 1900. Belgium is divided into eleven electoral districts, and representation in the Chamber of Representatives (the lower house of the legislature) is proportional to each district's population. 
 
 Belgium is split into four "linguistic regions" per its Constitution: the Dutch-speaking region in the north (Flanders), the French-speaking region in the south (Wallonia), the bilingual area of Brussels-Capital, and the German-speaking region in the east.[^6] Each language region has their own set of parties which speak that language: as a result, there's no national "Green" party, for example, but there's a Dutch-speaking Green party and a French-speaking Green party. As a result of both the language divide and the PR electoral system, parties abound.
+
+| Political Ideology | Dutch-Speaking | Francophone |
+|:--|:--| :--|
+|Center-Left | Socialist Party Different (sp.a) | Socialist Party (PS)|
+|Liberal| Open Flemish Liberals and Democrats | Mouvement Réformateur|
+|Green| Groen | Écolo|
+|Christian Democratic | Christian Democratic and Flemish | Humanist Democratic Center|
+| | New Flemish Alliance | Democratic Federalist Independent | 
+| Flemish Interest | Workers' Party
 
 Belgium has an ENP of 10.97. Sixteen parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 24 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs).The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^7]
 
