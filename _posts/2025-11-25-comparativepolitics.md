@@ -100,7 +100,7 @@ Belgium is split into four "linguistic regions" per its Constitution: the Dutch-
 |Green| Groen | Écolo|
 |Christian Democratic | Christian Democratic and Flemish | Humanist Democratic Center|
 | | New Flemish Alliance | Democratic Federalist Independent | 
-| Flemish Interest | Workers' Party
+| | Flemish Interest | Workers' Party
 
 Belgium has an ENP of 10.97. Sixteen parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 24 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs).The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^7]
 
