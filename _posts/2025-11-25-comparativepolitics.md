@@ -115,9 +115,12 @@ Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chambe
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/26673691"></div>
 
-<noscript><img src="https://public.flourish.studio/visualisation/26673691/thumbnail" width="100%" alt="parliament visualization" /></noscript>
+<noscript>
+<img src="https://public.flourish.studio/visualisation/26673691/thumbnail" width="100%" alt="parliament visualization"/>
+</noscript>
 
 I used Flourish to represent the composition of the Belgian House of Representatives as of 2025. Note that the Belgian government's website groups Écolo (French) and Groen (Flemish) together, as the two parties have close ties.[^13] 
+
 ___
 
 [^1]: Armingeon, Klaus, Sarah Engler, Lucas Leemann and David Weisstanner. 2025. *Comparative Political Data Set 1960-2023.* Zurich/Lueneburg/Lucerne: University of Zurich, Leuphana University Lueneburg, and University of Lucerne.
@@ -140,7 +143,7 @@ ___
 
 [^10]: "Four language areas." Parlament der Deutschprachigen Gemeinschaft Belgiens. [https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/](https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/)
 
-^[11]: Ciara Carolan. "Proportional representation in Belgium: How does it work?" *The Brussels Times*, Apr. 3, 2024. [https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work](https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work)
+[^11]: Ciara Carolan. "Proportional representation in Belgium: How does it work?" *The Brussels Times*, Apr. 3, 2024. [https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work](https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work)
 
 [^12]: "IPU data on Belgium, House of Representatives." *IPU Parline*. Accessed Dec. 5, 2025, [https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/](https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/)
 
