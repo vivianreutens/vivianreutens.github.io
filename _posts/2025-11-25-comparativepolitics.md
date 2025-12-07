@@ -2,13 +2,8 @@
 layout: post
 title: Comparative Politics - Duverger's Law
 permalink: /comparativepolitics/
+flourish: true
 ---
-
-- [Case Studies](#case-studies)
-  - [FPTP: United Kingdom](#fptp-united-kingdom)
-  - [Modified PR: Japan](#modified-pr-japan)
-  - [PR: Belgium](#pr-belgium)
-
 
 <strong>Duverger's Law</strong> holds that the simple-majority single ballot system (FPTP) favors the two party system. When voters go to the polls and vote strategically, a FPTP system incentivizes them not to select minority parties which will never be able to reach a plurality. Since districts will only elect one representative, parties with supporters more evenly distributed across the country will find it harder to win seats if they cannot garner a majority in *each* district. As a result, larger parties and more geographically concentrated parties should be favored more in elections than smaller and more dispersed parties. This project seeks to check if Duverger's Law holds up when applied to empirical data.
 
@@ -32,7 +27,7 @@ For this project, I looked only at data collected in 2023. The countries covered
 
 Countries were grouped into "subregions" by coders at <a href = 'https://www.naturalearthdata.com/'>Natural Earth</a>. 
 
-## Duverger's Law
+## 0.1. Duverger's Law
 
 Do countries using FPTP have a smaller number of effective parties than those that use proportional representation systems? I put this question to the test by classifying each country according to their electoral systems and color-coding them by the number of electoral effective parties (Electoral ENP). Electoral ENP is calculated by:
 
@@ -58,7 +53,7 @@ The CPDS also gives us data for the effective number of parties in the legislatu
 
 Every country has a lower Legislative ENP than Electoral ENP. This hints at the fact that it is very hard for smaller parties to win seats in the legislature. 
 
-# Case Studies
+# 1. Case Studies
 
 Let's zoom in on three countries with different systems:
 <ol>
@@ -67,7 +62,7 @@ Let's zoom in on three countries with different systems:
     <li> PR: Belgium </li>
 </ol>
 
-## FPTP: United Kingdom
+## 1.1. FPTP: United Kingdom
 
 The United States and Canada based their election systems off of the UK's. The UK has 650 different constituencies which each use FPTP to elect a single MP to the House of Commons. FPTP is also used for local elections (councillors, parish and town council elections, police and crime commissioner elections...).
 
@@ -83,17 +78,21 @@ Below is a slideshow[^5] displaying the share of seats in Parliament in differen
 
 <iframe scrolling = 'no' sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" src = 'https://flo.uri.sh/story/163875/embed?auto=1' width="100%" height="668px" frameborder="0" style="border:1" allowfullscreen></iframe>
 
-## Modified PR: Japan
+## 1.2. Modified PR: Japan
 
 Japan's legislature is the National Diet, which consists of the upper House of Councillors and the lower House of Representatives. The House of Representatives uses a modified PR system to elect its members: 60% are elected via a FPTP system, and 40% are elected using a PR system in eleven regional blocs.[^6] 
 
 Japan has an ENP of 3.72. Eleven parties are represented in the House of Representatives, but there are two main parties. As of October 6, 2025, the Liberal Democratic Party holds 196 seats, followed by the Constitutional Democratic Party of Japan (148 seats). Together, they constitute 73.98% of the House.[^7] 
 
-<div class="flourish-embed flourish-parliament" data-src="visualisation/26672464"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26672464/thumbnail" width="100%" alt="parliament visualization" /></noscript></div>
+<div class="flourish-embed flourish-parliament" data-src="visualisation/26672464"></div>
+
+<noscript>
+  <img src="https://public.flourish.studio/visualisation/26672464/thumbnail" width="100%" alt="parliament visualization" />
+</noscript>
 
 I used Flourish to visualize the composition of the House of Representatives in 2021, 2023, and 2025. 
 
-## PR: Belgium
+## 1.3. PR: Belgium
 
 Belgium was the first country in the world to adopt a PR system for national parliamentary elections in 1900. Belgium is divided into eleven electoral districts, and representation in the Chamber of Representatives (the lower house of the legislature) is proportional to each district's population. Each district has an approximate magnitude of 7.5 (considering only the elections for the Chamber of Representatives) as of 2005.[^8]
 
@@ -106,10 +105,9 @@ Belgium is split into four "linguistic regions" per its Constitution: the Dutch-
 |Green| Groen | Écolo|
 |Christian Democratic | Christian Democratic and Flemish | Humanist Democratic Center|
 | | New Flemish Alliance | Democratic Federalist Independent | 
-| | Flemish Interest | Workers' Party
+| | Flemish Interest | Workers' Party |
 
 Belgium has an ENP of 10.97. Sixteen parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 24 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^11]
-
 
 ___
 
@@ -117,24 +115,20 @@ ___
 
 [^2]: The Editors of Encyclopaedia Britannica. " How many political parties are there in the U.K.? ". Encyclopedia Britannica, 28 Jul. 2025, <a href = 'https://www.britannica.com/question/How-many-political-parties-are-there-in-the-U-K'>https://www.britannica.com/question/How-many-political-parties-are-there-in-the-U-K</a>. Accessed 6 December 2025.
 
-[^3]: Helen Catt. "Liberal Democrat membership has halved in 5 years," *BBC*, Oct. 8, 2025. https://www.bbc.com/news/articles/cy5069p70x2o
+[^3]: Helen Catt. "Liberal Democrat membership has halved in 5 years," *BBC*, Oct. 8, 2025. [https://www.bbc.com/news/articles/cy5069p70x2o](https://www.bbc.com/news/articles/cy5069p70x2o)
 
 [^4]: "United Kingdom: Political parties at a glance." *PolitPro*, accessed Dec. 5, 2025. <a href = 'https://politpro.eu/en/united-kingdom/parties#parties-in-comparison'>'https://politpro.eu/en/united-kingdom/parties#parties-in-comparison</a>
 
-[^5]: Bormann, Nils-Christian, and Matt Golder. 2022. “Democratic Electoral Systems Around the World,1946–2020.” Electoral Studies 78: 102487. https://doi.org/https://doi.org/10.1016/j.electstud.2022.
-102487.
-
-Teorell, Jan, Aksel Sundström, Holmberg Sören, Rothstein Bo, Natalia Alvarado Pachon, Dalli Cem Mert, Rafael Lopez Valverde, Victor Saidi Phiri, and Laura Gerber. 2025. The Quality of Government Standard Dataset, Version Jan25. University of Gothenburg. The Quality of Government Institute.
-https://doi.org/10.18157/QoGStdJan25.
+[^5]: Bormann, Nils-Christian, and Matt Golder. 2022. “Democratic Electoral Systems Around the World,1946–2020.” *Electoral Studies* 78: 102487. [https://doi.org/https://doi.org/10.1016/j.electstud.2022](https://doi.org/https://doi.org/10.1016/j.electstud.2022); Teorell, Jan, Aksel Sundström, Holmberg Sören, Rothstein Bo, Natalia Alvarado Pachon, Dalli Cem Mert, Rafael Lopez Valverde, Victor Saidi Phiri, and Laura Gerber. 2025. The Quality of Government Standard Dataset, Version Jan25. University of Gothenburg. The Quality of Government Institute. [https://doi.org/10.18157/QoGStdJan25](https://doi.org/10.18157/QoGStdJan25).
 
 [^6]: This lovely slideshow was taken from the <a href= 'https://electoral-reform.org.uk/voting-systems/types-of-voting-system/first-past-the-post/'> Electoral Reform Society</a>. It was made with <a href = 'https://flourish.studio/product/data-storytelling/?utm_source=showcase&utm_campaign=story/163875'>Flourish</a>. 
 
-[^7]: Matthew Mathias. "How do elections work in Japan," *Electoral Reform Society*, Sep. 19, 2019. https://electoral-reform.org.uk/how-do-elections-work-in-japan/
+[^7]: Matthew Mathias. "How do elections work in Japan," *Electoral Reform Society*, Sep. 19, 2019. [https://electoral-reform.org.uk/how-do-elections-work-in-japan/](https://electoral-reform.org.uk/how-do-elections-work-in-japan/)
 
-[^8]: Nassreddin Taibi. "The Perpetual Struggle to Form the Belgian Government," *Europe Elects*, Aug. 19, 2020. Accessed at https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/. 
+[^8]: Nassreddin Taibi. "The Perpetual Struggle to Form the Belgian Government," *Europe Elects*, Aug. 19, 2020. Accessed at [https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/](https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/). 
 
-[^9]: "Strength of the In-House Groups in the House of Representatives." *The House of Representatives, Japan*. https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm
+[^9]: "Strength of the In-House Groups in the House of Representatives." *The House of Representatives, Japan*. [https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm)
 
-[^10]: "Four language areas." Parlament der Deutschprachigen Gemeinschaft Belgiens. https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/
+[^10]: "Four language areas." Parlament der Deutschprachigen Gemeinschaft Belgiens. [https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/](https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/)
 
-[^11]: "IPU data on Belgium, House of Representatives." *IPU Parline*. Accessed Dec. 5, 2025, https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/
+[^11]: "IPU data on Belgium, House of Representatives." *IPU Parline*. Accessed Dec. 5, 2025, [https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/](https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/)
