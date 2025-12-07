@@ -108,11 +108,16 @@ Belgium is split into four "linguistic regions" per its Constitution: the Dutch-
 | | Flemish Interest | Workers' Party |
 
 
-Unlike FPTP systems, the PR system does not impose as much pressure on the voter to choose strategically because seats are allocated according to the proportion of votes a party receives instead of being wholly given to the winning party. In Belgium, this means that small parties are more likely to be able to hold seats, so long as they get at least 5% of votes. This seems to be relatively easier considering the deep language and regional divisions that have effectively segregated Belgian voters.^[11]
+Unlike FPTP systems, the PR system does not impose as much pressure on the voter to choose strategically because seats are allocated according to the proportion of votes a party receives instead of being wholly given to the winning party. In Belgium, this means that small parties are more likely to be able to hold seats, so long as they get at least 5% of votes. This seems to be relatively easier considering the deep language and regional divisions that have effectively segregated Belgian voters.[^11]
 
 
-Belgium has an ENP of 10.97. Sixteen parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 24 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^12]
+Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 23 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 24 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^12]
 
+<div class="flourish-embed flourish-parliament" data-src="visualisation/26673691"></div>
+
+<noscript><img src="https://public.flourish.studio/visualisation/26673691/thumbnail" width="100%" alt="parliament visualization" /></noscript>
+
+I used Flourish to represent the composition of the Belgian House of Representatives as of 2025. Note that the Belgian government's website groups Écolo (French) and Groen (Flemish) together, as the two parties have close ties.[^13] 
 ___
 
 [^1]: Armingeon, Klaus, Sarah Engler, Lucas Leemann and David Weisstanner. 2025. *Comparative Political Data Set 1960-2023.* Zurich/Lueneburg/Lucerne: University of Zurich, Leuphana University Lueneburg, and University of Lucerne.
@@ -138,3 +143,5 @@ ___
 ^[11]: Ciara Carolan. "Proportional representation in Belgium: How does it work?" *The Brussels Times*, Apr. 3, 2024. [https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work](https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work)
 
 [^12]: "IPU data on Belgium, House of Representatives." *IPU Parline*. Accessed Dec. 5, 2025, [https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/](https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/)
+
+[^13]: "Les Députés" *La Chambre.be*. Accessed Dec. 6, 2025, [https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=/site/wwwcfm/depute/cvlist.cfm](https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=/site/wwwcfm/depute/cvlist.cfm)
