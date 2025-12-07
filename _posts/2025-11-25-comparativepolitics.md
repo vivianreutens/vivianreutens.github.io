@@ -111,7 +111,7 @@ Belgium is split into four "linguistic regions" per its Constitution: the Dutch-
 Unlike FPTP systems, the PR system does not impose as much pressure on the voter to choose strategically because seats are allocated according to the proportion of votes a party receives instead of being wholly given to the winning party. In Belgium, this means that small parties are more likely to be able to hold seats, so long as they get at least 5% of votes. This seems to be relatively easier considering the deep language and regional divisions that have effectively segregated Belgian voters.[^11]
 
 
-Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 23 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 24 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^12]
+Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 23 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^12]
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/26673691"></div>
 
