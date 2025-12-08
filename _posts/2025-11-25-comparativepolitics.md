@@ -92,11 +92,29 @@ Japan has an ENP of 3.72. Eleven parties are represented in the House of Represe
 
 I used Flourish to visualize the composition of the House of Representatives in 2021, 2023, and 2025. 
 
+The fact that Japan uses a mixed system allows us to contrast the composition of both the PR and FPTP-elected seats. Observe the following:
+
+| Political Group | Total | FPTP | PR | 
+| :--: | :--: | :--: | :--: |
+| Liberal Democratic Party | 191| 132 | 59 |
+| Constitutional Democratic Party | 148 | 104 | 44 |
+| Nippon Ishin | 38 | 23 | 15| 
+| Democratic Party for the People | 28 | 11 | 17 |
+| Komeito | 24 | 4 | 20 |
+| Reiwa Shinsengumi | 9 | 0 | 9 |
+| Japanese Communist Party | 8 | 1 | 7 |
+| Conservative Party of Japan | 2 | 0 | 2| 
+| Social Democratic Party | 1 | 1 | 0 |
+| Others | 1 | 1 | 0 |
+| Independents | 12 | 12 | 0 | 
+
+There are quite a few parties (6/12, to be precise) which won zero or only one seat in FPTP elections, but managed to garner a few more seats in PR races.[^8] As a result, even though Japan's House of Representatives is still dominated by the LDP and CDP, it is still possible for smaller parties to hold seats. 
+
 ## 1.3. PR: Belgium
 
-Belgium was the first country in the world to adopt a PR system for national parliamentary elections in 1900. Belgium is divided into eleven electoral districts, and representation in the Chamber of Representatives (the lower house of the legislature) is proportional to each district's population. Each district has an approximate magnitude of 7.5 (considering only the elections for the Chamber of Representatives) as of 2005.[^8]
+Belgium was the first country in the world to adopt a PR system for national parliamentary elections in 1900. Belgium is divided into eleven electoral districts, and representation in the Chamber of Representatives (the lower house of the legislature) is proportional to each district's population. Each district has an approximate magnitude of 7.5 (considering only the elections for the Chamber of Representatives) as of 2005.[^9]
 
-Belgium is split into four "linguistic regions" per its Constitution: the Dutch-speaking region in the north (Flanders), the French-speaking region in the south (Wallonia), the bilingual area of Brussels-Capital, and the German-speaking region in the east.[^9] Each language region has their own set of parties which speak that language: as a result, there's no national "Green" party, for example, but there's a Dutch-speaking Green party and a French-speaking Green party. As a result of both the language divide and the PR electoral system, parties abound.[^10]
+Belgium is split into four "linguistic regions" per its Constitution: the Dutch-speaking region in the north (Flanders), the French-speaking region in the south (Wallonia), the bilingual area of Brussels-Capital, and the German-speaking region in the east.[^10] Each language region has their own set of parties which speak that language: as a result, there's no national "Green" party, for example, but there's a Dutch-speaking Green party and a French-speaking Green party. As a result of both the language divide and the PR electoral system, parties abound.[^11]
 
 | Political Ideology | Dutch-Speaking | Francophone |
 |:--|:--| :--|
@@ -108,10 +126,10 @@ Belgium is split into four "linguistic regions" per its Constitution: the Dutch-
 | | Flemish Interest | Workers' Party |
 
 
-Unlike FPTP systems, the PR system does not impose as much pressure on the voter to choose strategically because seats are allocated according to the proportion of votes a party receives instead of being wholly given to the winning party. In Belgium, this means that small parties are more likely to be able to hold seats, so long as they get at least 5% of votes. This seems to be relatively easier considering the deep language and regional divisions that have effectively segregated Belgian voters.[^11]
+Unlike FPTP systems, the PR system does not impose as much pressure on the voter to choose strategically because seats are allocated according to the proportion of votes a party receives instead of being wholly given to the winning party. In Belgium, this means that small parties are more likely to be able to hold seats, so long as they get at least 5% of votes. This seems to be relatively easier considering the deep language and regional divisions that have effectively segregated Belgian voters.[^12]
 
 
-Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 23 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^12]
+Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chamber of Representatives in the 2024 election. Leading the pack was the New Flemish Alliance (right-wing, 23 MPs), the Vlaams Belang (far-right, 20 MPs), and the Mouvement Réformateur (liberal, 20 MPs). The government must be supported by an absolute majority, or at least 76 MPs. After the 2024 election, it took eight months for a five-party coalition to gain an absolute majority with 81 seats.[^13]
 
 <div class="flourish-embed flourish-parliament" data-src="visualisation/26673691"></div>
 
@@ -119,7 +137,7 @@ Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chambe
 <img src="https://public.flourish.studio/visualisation/26673691/thumbnail" width="100%" alt="parliament visualization"/>
 </noscript>
 
-I used Flourish to represent the composition of the Belgian House of Representatives as of 2025. Note that the Belgian government's website groups Écolo (French) and Groen (Flemish) together, as the two parties have close ties.[^13] 
+I used Flourish to represent the composition of the Belgian House of Representatives as of 2025. Note that the Belgian government's website groups Écolo (French) and Groen (Flemish) together, as the two parties have close ties.[^14] 
 
 ___
 
@@ -137,14 +155,16 @@ ___
 
 [^7]: Matthew Mathias. "How do elections work in Japan," *Electoral Reform Society*, Sep. 19, 2019. [https://electoral-reform.org.uk/how-do-elections-work-in-japan/](https://electoral-reform.org.uk/how-do-elections-work-in-japan/)
 
-[^8]: Nassreddin Taibi. "The Perpetual Struggle to Form the Belgian Government," *Europe Elects*, Aug. 19, 2020. Accessed at [https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/](https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/). 
+[^8]: "Japan - House of Representatives." *IPU Parline*, accessed Dec. 8, 2025. [https://data.ipu.org/parliament/JP/JP-LC01/election/JP-LC01-E20241027/](https://data.ipu.org/parliament/JP/JP-LC01/election/JP-LC01-E20241027/)
 
-[^9]: "Strength of the In-House Groups in the House of Representatives." *The House of Representatives, Japan*. [https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm)
+[^9]: Nassreddin Taibi. "The Perpetual Struggle to Form the Belgian Government," *Europe Elects*, Aug. 19, 2020. Accessed at [https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/](https://europeelects.eu/2020/08/19/the-perpetual-struggle-to-form-the-belgian-government/). 
 
-[^10]: "Four language areas." Parlament der Deutschprachigen Gemeinschaft Belgiens. [https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/](https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/)
+[^10]: "Strength of the In-House Groups in the House of Representatives." *The House of Representatives, Japan*. [https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/english/strength.htm)
 
-[^11]: Ciara Carolan. "Proportional representation in Belgium: How does it work?" *The Brussels Times*, Apr. 3, 2024. [https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work](https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work)
+[^11]: "Four language areas." Parlament der Deutschprachigen Gemeinschaft Belgiens. [https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/](https://pdg.be/en/desktopdefault.aspx/tabid-3986/7167_read-41451/)
 
-[^12]: "IPU data on Belgium, House of Representatives." *IPU Parline*. Accessed Dec. 5, 2025, [https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/](https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/)
+[^12]: Ciara Carolan. "Proportional representation in Belgium: How does it work?" *The Brussels Times*, Apr. 3, 2024. [https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work](https://www.brusselstimes.com/991247/proportional-representation-in-belgium-how-does-it-work)
 
-[^13]: "Les Députés" *La Chambre.be*. Accessed Dec. 6, 2025, [https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=/site/wwwcfm/depute/cvlist.cfm](https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=/site/wwwcfm/depute/cvlist.cfm)
+[^13]: "IPU data on Belgium, House of Representatives." *IPU Parline*. Accessed Dec. 5, 2025, [https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/](https://data.ipu.org/parliament/BE/BE-LC01/election/BE-LC01-E20240609/)
+
+[^14]: "Les Députés" *La Chambre.be*. Accessed Dec. 6, 2025, [https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=/site/wwwcfm/depute/cvlist.cfm](https://www.dekamer.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=/site/wwwcfm/depute/cvlist.cfm)
