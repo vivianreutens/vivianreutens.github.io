@@ -29,7 +29,7 @@ Countries were grouped into "subregions" by coders at <a href = 'https://www.nat
 
 ## 0.1. Duverger's Law
 
-Do countries using FPTP have a smaller number of effective parties than those that use proportional representation systems? I put this question to the test by classifying each country according to their electoral systems and color-coding them by the number of electoral effective parties (Electoral ENP). Electoral ENP is calculated by:
+Do countries using FPTP have a smaller number of effective parties than those that use proportional representation systems? I put this question to the test by classifying each country according to their electoral systems and color-coding them by the number of effective parties (ENP). There are two types of ENPs: electoral and legislativ. Electoral ENP is calculated by:
 
 <ol> 
     <li> Calculating $$
@@ -43,15 +43,14 @@ where $v_i$ is the share of votes for each party $i$ and $m$ is the number of pa
 
  <iframe src="/stuff%20included/html/effpar_elemap.html" width="100%" height="500px" frameborder="0" style="border:1" allowfullscreen></iframe>
 
-One finds that European countries tend to have higher ENP measures, and that more European countries use proportional representation voting systems. The U.S., U.K., and Canada are the only countries classified as using FPTP systems, and have the lowest ENP measures. Countries noted to use "modified PR" systems (e.g. Australia, France, Japan) have ENP measures between that of the PR-system countries and that of the FPTP-system countries. Overall, Duverger's Law holds.
-
-
 The CPDS also gives us data for the effective number of parties in the legislature. It's calculated in the same way as Electoral ENP, but it swaps $v_i$, a party's vote share in the election, for $s_i$, a party's share of votes in the legislature.
 
 
  <iframe src="/stuff%20included/html/effpar_legmap.html" width="100%" height="500px" frameborder="0" style="border:1" allowfullscreen></iframe>
 
-Every country has a lower Legislative ENP than Electoral ENP. This hints at the fact that it is very hard for smaller parties to win seats in the legislature. 
+Every country has a lower Legislative ENP than Electoral ENP. This hints at the fact that it is very hard for smaller parties to win seats in the legislature, and at the fact that the mechanical effect of Duverger's Law applies moreso to the Legislative ENP. Voting strategically may limit the number of parties that can garner seats in the legislature, but it doesn't really mean that voters would have fewer options on the *ballot* per se. However, we see that the two measures of ENP are quite correlated. 
+
+One finds that European countries tend to have higher legislative and electoral ENP measures, and that more European countries use proportional representation voting systems. The U.S., U.K., and Canada are the only countries classified as using FPTP systems, and have the lowest legislative and electoral ENP measures. Countries noted to use "modified PR" systems (e.g. Australia, France, Japan) have legislative and electoral ENP measures between that of the PR-system countries and that of the FPTP-system countries. Overall, Duverger's Law holds.
 
 # 1. Case Studies
 
