@@ -139,6 +139,9 @@ Belgium has an ENP of 10.97. Eleven parties ended up winning seats in the Chambe
 
 I used Flourish to represent the composition of the Belgian House of Representatives as of 2025. Note that the Belgian government's website groups Écolo (French) and Groen (Flemish) together, as the two parties have close ties.[^14] 
 
+# Conclusion
+In summary, the empirical data here largely confirms Duverger's Law: the countries which use FPTP systems tend to have two large, national parties represented in their legislature, whereas the countries with PR systems tend to have many more, smaller parties represented. While the countires with FPTP systems may not have *exactly* two parties, the parties which contribute to the ENP tend to be small and regional, as those are the only minor parties that would still be able to garner a plurality of the vote in a single-member district. 
+
 ___
 
 [^1]: Armingeon, Klaus, Sarah Engler, Lucas Leemann and David Weisstanner. 2025. *Comparative Political Data Set 1960-2023.* Zurich/Lueneburg/Lucerne: University of Zurich, Leuphana University Lueneburg, and University of Lucerne.
