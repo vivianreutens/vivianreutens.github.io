@@ -29,7 +29,7 @@ Countries were grouped into "subregions" by coders at <a href = 'https://www.nat
 
 ## 0.1. Duverger's Law
 
-Do countries using FPTP have a smaller number of effective parties than those that use proportional representation systems? I put this question to the test by classifying each country according to their electoral systems and color-coding them by the number of effective parties (ENP). There are two types of ENPs: electoral and legislativ. Electoral ENP is calculated by:
+Do countries using FPTP have a smaller number of effective parties than those that use proportional representation systems? I put this question to the test by classifying each country according to their electoral systems and color-coding them by the number of effective parties (ENP). There are two types of ENPs: electoral and legislative. Electoral ENP is calculated by:
 
 <ol> 
     <li> Calculating $$
@@ -65,7 +65,7 @@ Let's zoom in on three countries with different systems:
 
 The United States and Canada based their election systems off of the UK's. The UK has 650 different constituencies which each use FPTP to elect a single MP to the House of Commons. FPTP is also used for local elections (councillors, parish and town council elections, police and crime commissioner elections...).
 
-There are thirteen parties represented in Parliament as of 2025. [^2] However, the UK has an ENP of 3.24. The main parties represented in Parliament are listed below with their 2025 seats and most recent membership numbers:[^3]
+There are thirteen parties represented in Parliament as of 2025.[^2] However, the UK has an ENP of 3.24. The main parties represented in Parliament are listed below with their 2025 seats and most recent membership numbers:[^3]
 - Labour Party: center-left, 404 MPs, 333.2 thousand members
 - Conservative "Tory" Party: center-right, 119 MPs, estimated 131.6 thousand members (2024)
 - Liberal Democrats: center-left, 72 MPs, 60 thousand members. 
