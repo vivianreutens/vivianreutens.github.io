@@ -26,4 +26,4 @@ layout: page
 
 # Movies
 - [*Sinners* (2025)](https://www.imdb.com/title/tt31193180/)
-- [*Oppenheimer* (2023)][https://www.imdb.com/title/tt15398776/]
+- [*Oppenheimer* (2023)](https://www.imdb.com/title/tt15398776/)
